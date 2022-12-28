@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sherece Bledsoe.
 - 👀 I’m interested in roller skating, rock climbing, yoga, and my cat.
-- 🌱 I’m currently working on Launch School Prep.
+- 🌱 I’m currently in RB129, the Object Oriented Programming portion of Launch School.
 - 💞️ I’m looking to collaborate on something, eventually.
 - 📫 How to reach me: sherece.bledsoe@gmail.com.
 
